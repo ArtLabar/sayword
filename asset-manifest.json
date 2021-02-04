@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sayword/static/css/main.2204bc48.chunk.css",
+    "main.js": "/sayword/static/js/main.e9cee9ee.chunk.js",
+    "main.js.map": "/sayword/static/js/main.e9cee9ee.chunk.js.map",
+    "runtime-main.js": "/sayword/static/js/runtime-main.caf8cee6.js",
+    "runtime-main.js.map": "/sayword/static/js/runtime-main.caf8cee6.js.map",
+    "static/js/2.a2b5a8bc.chunk.js": "/sayword/static/js/2.a2b5a8bc.chunk.js",
+    "static/js/2.a2b5a8bc.chunk.js.map": "/sayword/static/js/2.a2b5a8bc.chunk.js.map",
+    "index.html": "/sayword/index.html",
+    "precache-manifest.583ac6866541e9136ca6faa6d46d36c4.js": "/sayword/precache-manifest.583ac6866541e9136ca6faa6d46d36c4.js",
+    "service-worker.js": "/sayword/service-worker.js",
+    "static/css/main.2204bc48.chunk.css.map": "/sayword/static/css/main.2204bc48.chunk.css.map",
+    "static/js/2.a2b5a8bc.chunk.js.LICENSE.txt": "/sayword/static/js/2.a2b5a8bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caf8cee6.js",
+    "static/js/2.a2b5a8bc.chunk.js",
+    "static/css/main.2204bc48.chunk.css",
+    "static/js/main.e9cee9ee.chunk.js"
+  ]
+}
